@@ -6,3 +6,5 @@ The earlier code didn't consider any specific bounds and checked for full face f
 The following code uses facial landmarks and Perspective-n-Point (PnP) for calculating the pitch, roll and yam of the face with nose as the centre.
 It gives a detailed output of the number of faces detected and number of faces looking within the bounds.
 The results are stored in Individual_Samples.txt file and output images as jpeg
+
+Note: model file has not been uploaded because of memory limit
