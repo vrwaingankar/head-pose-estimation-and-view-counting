@@ -7,4 +7,4 @@ The following code uses facial landmarks and Perspective-n-Point (PnP) for calcu
 It gives a detailed output of the number of faces detected and number of faces looking within the bounds.
 The results are stored in Individual_Samples.txt file and output images as jpeg
 
-Note: model file has not been uploaded because of memory limit
+Note: model file has not been uploaded because of memory limit on github
